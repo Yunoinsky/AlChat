@@ -1,5 +1,6 @@
 # Data
-data/
+data/embedding/
+data/raw_cop/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
