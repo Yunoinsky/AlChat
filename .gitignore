@@ -2,6 +2,7 @@
 data/embedding/
 data/raw_cop/
 data/cosine_similarity.pt
+data/file_server_start.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
